@@ -1,5 +1,5 @@
 <div class="footer">
-  <p class="text-center">Copyright © 2020 Developed By jk <i class="far fa-smile"></i></p>
+  <p class="text-center">Copyright © 2020 Developed By <a href="#brand">jk</a> <i class="far fa-smile"></i></p>
 </div>
 
 <br>

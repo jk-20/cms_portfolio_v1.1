@@ -2,7 +2,7 @@
           
                 
                         <nav class="navbar navbar-expand-lg">
-                          <a class="navbar-brand" href="#">JK</a>
+                          <a class="navbar-brand" href="#about" id="brand">JK</a>
                           <a class="btn btn-primary navbar-toggler type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                             <i class="fas fa-bars"></i>
                           </a>
@@ -30,10 +30,20 @@
                         </nav>
         
                 <h1>
-                hi , i'm joginder kumar
+                <span class="bg-primary rounded"> hi , i'm joginder kumar</span>
+               
                 </h1><br> 
-                <p class="sub-heading">full-stack developer</p>
+                <p class="sub-heading"> <span class="bg-primary rounded">full-stack developer</span> </p>
+              <div class="socail-link text-center">
+              <a href="" class="btn btn-outline-primary mr-2">
+              <i class="fab fa-facebook-f"></i> </a> 
+                <a href="" class="btn btn-outline-primary mr-2">
+                 <i class="fab fa-twitter"></i></a>
+                <a href="" class="btn btn-outline-primary">
+                <i class="fab fa-github"></i></a>
+              </div>
+              <br>
                 <div class="startnow">
-                    <a href="#about" class="btn btn-primary btn-lg">hire me</a>
+                    <a href="#about" class="btn btn-outline-primary btn-lg">hire me</a>
                 </div>
         </div>

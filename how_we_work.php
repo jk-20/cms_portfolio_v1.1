@@ -1,7 +1,13 @@
+<div class="mt-3">
+<br></div>
+
 <div class="container">
   <div class="row">
     <div class="col-sm-12">
-      <h2 class="text-center"><i class="fas fa-briefcase text-danger"></i> how we work</h2>
+      <h2 class="text-center"><i class="fas fa-briefcase text-danger"></i> 
+      
+      <span class="border-bottom border-danger">  how we work</span>
+     </h2>
     </div>
   </div>
 </div>

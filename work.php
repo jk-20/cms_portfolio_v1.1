@@ -1,11 +1,20 @@
+
+<div class="mt-3">
+<br></div>
 <div class="container featured-work" id="work">
   <div class="row">
     <div class="col-sm-12">
-      <h2 class="text-center"><i class="fas fa-globe text-primary"></i> featured work</h2>
+  
+      <h2 class="text-center"><i class="fas fa-globe text-success"></i>
+      <span class="border-bottom border-success"> featured work</span>
+       </h2>
+      <div class="mt-3">
+<br></div>
     </div>
   </div>
 </div>
 <br>
+
 <div class="container featured-work-box-1">
   <div class="row">
     <div class="col-sm featured-work-img-div mr-2">
@@ -35,8 +44,11 @@
               <a href="#" class="btn btn-outline-primary btn-lg"><i class="fas fa-globe"></i> demo</a>
               <a href="#" class="btn btn-outline-primary btn-lg"><i class="fas fa-code"></i> code</a>
                 </div>
-   
+  
    
   </div>
+  <br>
+  <div class="text-right"><a href="" class="">view more..</a></div>
 </div>
+
 <br>
